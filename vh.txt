@@ -1,0 +1,8 @@
+<VirtualHost *:80>
+	DocumentRoot /../laravel-acl/public
+	ServerName laravel-acl.dev
+</VirtualHost>
+
+<Directory "/var/www/html">
+	Allowoveride All
+</Directory>

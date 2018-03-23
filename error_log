@@ -1,0 +1,2 @@
+[23-Mar-2018 20:36:23 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/devel1/public_html/laravel-acl/vendor/symfony/console/Output/Output.php on line 40
+[23-Mar-2018 20:38:15 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/devel1/public_html/laravel-acl/vendor/symfony/console/Output/Output.php on line 40
