@@ -33,7 +33,6 @@ class HomeController extends Controller
     public function update($idPost)
     {
         $post = Post::find($idPost);
-        // $this->authorize('update-post', $post);
         if(Gate::denies('update-post', $post)){
             abort(403, 'Unauthorized');
         }
