@@ -10,3 +10,7 @@
 [23-Mar-2018 20:38:18 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
 [23-Mar-2018 20:38:18 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/devel1/public_html/laravel-acl/vendor/symfony/finder/Comparator/NumberComparator.php on line 42
 [23-Mar-2018 20:38:18 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[29-Mar-2018 13:46:47 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?' in /home/devel1/public_html/laravel-acl/vendor/symfony/http-foundation/Response.php on line 499
+[29-Mar-2018 13:46:47 America/Sao_Paulo] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[29-Mar-2018 13:46:47 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '?' in /home/devel1/public_html/laravel-acl/vendor/symfony/http-foundation/Response.php on line 499
+[29-Mar-2018 13:46:47 America/Sao_Paulo] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
